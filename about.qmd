@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+## Hello
+
+Welcome to my page! My name is Anna Haroutounian and I am a people data analyst with 10+ years of experience  
+human resources and executive recruiting, specializing in recruitment research, talent analytics, talent intelligence, operations, project management, and CRM implementation for industry leaders including NBCUniversal and Activision Blizzard. I have a passion on finding impactful insights and building stories with data. Currently I am pursuing my Master of Science degree in Business Analytics at UC Irvine. When I'm not working, I am walking my puppy Archook and working out at Orangetheory! I am an LA Native and love to explore my beautiful state!
+
+I am always open to networking with colleagues in the industry. Let's connect!
